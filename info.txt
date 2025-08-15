@@ -1,0 +1,97 @@
+login all using git hub only 
+pw for all Yash@069
+
+savtitapadme55
+Yash@069
+docotor
+
+
+clerk use kara hai login or signup page ke liye 
+
+Neon : The database developers trust, on a serverless platform designed to help you build reliable and scalable applications faster. along side prisma ORM
+
+noenDB : postgresql://Yash%20Padme:npg_Qxi4rohqC7AL@ep-lively-leaf-a8zkcsm9-pooler.eastus2.azure.neon.tech/medimeet?sslmode=require
+role Yash Padme  pw : npg_Qxi4rohqC7AL
+
+vonage
+video  api 
+pw : ABViiitm@069
+application id : bc4815a5-fde1-48ca-9e5e-28f0b1a33150
+
+landing page using page.jsx from app where used data.js from lib to import data and some card compents from shadcn ui
+
+00:53:44 Database Design
+Prisma ORM prisma.io
+Ship at lightning speed, and scale to a global audience effortlessly with our next-gen serverless Postgres database.
+
+after creating all models we create tables using npx prisma generate
+
+yashpadme
+Yash@069
+yashpadme2@gmail.com
+
+subricption setup on clerk
+
+
+server action 
+credit.js to allocate the credits to patients using server action plans
+
+for date w install npn i date-fns
+
+
+rounting in nextjs
+
+Dynamic Routes
+When you don't know the exact segment names ahead of time and want to create routes from dynamic data, you can use Dynamic Segments that are filled in at request time or prerendered at build time. 
+
+
+app/main ---> page.jsx and layout.js
+1. admin
+server action likha hai admin.js me 
+then setup admin panel layout.js using shadcn ui components 
+2. appointment
+3. doctor
+4. doctors
+        speciality karke ek route hai 
+5. onboarding
+---> server action onboarding 1. check user is logged in or not 
+--> role assign karna hai doctor ya patient
+--->  Gets the current user's complete profile information
+---> middleware.js --> IsProtected route checkif user is not logged in and trying to access protected route, redirect to sign in page
+layout.js
+
+make a form using zod to apply as doctor and cerification doctor dashboard bnaaya hai pending status show karne ke liye taki pata chale doctor ko 
+
+page.jsx
+intall zod and hook
+npm i react-hook-form zod @hookform/resolvers
+
+make form using zod to take data from 
+
+
+
+
+
+6. pricing 
+ ---> pricing page.jsx
+7. video call
+
+
+custom hooks 
+to fetch api
+
+
+video call apis
+npm i @vonage/auth @vonage/server-sdk
+
+
+
+
+patient
+yashpadme2@gmail.com
+pw patient@1234
+
+
+DOctor
+yashpadme13@gmail.com
+Doctor@1234
